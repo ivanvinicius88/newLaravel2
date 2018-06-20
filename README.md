@@ -2,4 +2,5 @@
 
 
 #gerar nova chave key
+
 php artisan key:generate
